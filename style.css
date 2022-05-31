@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    margin: auto;
+}
+.container-data{
+    padding: 9px;
+    text-align: center;
+    flex-direction: column;
+    margin: auto;
+}
+.container img{
+
+  text-align: center;
+  flex-direction: column;
+  margin: auto;
+}
+
+.container-data h2{
+
+    color: rgb(7, 9, 114);
+    margin: auto;
+
+}
+
+.container-data h3 {
+    color: rgb(7, 9, 114);
+    margin: auto;
+}
+
+.container hr{
+border: 2px solid ;
+margin:auto 50px;
+}
