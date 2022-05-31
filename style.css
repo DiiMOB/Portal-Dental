@@ -22,19 +22,16 @@
   flex-direction: column;
   margin: auto;
 }
-
 .container-data h2{
 
     color: rgb(7, 9, 114);
     margin: auto;
 
 }
-
 .container-data h3 {
     color: rgb(7, 9, 114);
     margin: auto;
 }
-
 .container hr{
 border: 2px solid ;
 margin:auto 50px;
